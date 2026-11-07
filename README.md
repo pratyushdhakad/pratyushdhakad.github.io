@@ -12,4 +12,4 @@ Plain HTML, CSS, and JavaScript. `styles.css` contains the original site styles;
 
 ## Content sources
 
-Career facts were checked against Pratyush's career canon, current LinkedIn profile, GitHub repositories, and his workspace instructions in October 2026. The portrait is from his local headshots folder.
+Career facts were checked against Pratyush's career canon, current LinkedIn profile, GitHub repositories, and his workspace instructions. The employment timeline and current title were refreshed from Pratyush's November 7, 2026 confirmation. The public site keeps employer work generalized and omits his team size. The portrait is from his local headshots folder.
